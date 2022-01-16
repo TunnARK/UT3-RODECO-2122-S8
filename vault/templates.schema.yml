@@ -1,0 +1,7 @@
+version: 1
+imports: []
+schemas:
+  - id: templates
+    children: []
+    title: templates
+    parent: root
