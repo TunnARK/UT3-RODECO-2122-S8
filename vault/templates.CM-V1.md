@@ -2,7 +2,7 @@
 id: 3kAsTClB5kRSd3MSl3aHU
 title: CM-V1
 desc: ''
-updated: 1642351287027
+updated: 1642588268141
 created: 1642350851869
 ---
 
@@ -13,6 +13,10 @@ created: 1642350851869
 ## Take Away
 
 - ...
+- ...
+
+## Compétences traitées
+
 - ...
 
 ## ToDo
@@ -26,3 +30,4 @@ created: 1642350851869
 
 ## Bibliothèques
 
+- []()
