@@ -2,28 +2,27 @@
 id: 3kAsTClB5kRSd3MSl3aHU
 title: CM-V1
 desc: ''
-updated: 1642588268141
+updated: 1642940931008
 created: 1642350851869
 ---
 
-| UE | Format | Date | Heure | Salle |
-|:---|:---:|:---:|:---:|:---:|
-|  | CM | 2022/ |  |  |
+| UE | Ref. | Format | Seance | Date | Heure |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|  |  | CM |  | 2022/ |  |
 
-## Take Away
-
+## Vocabulaires
 - ...
 - ...
 
-## Compétences traitées
-
+## Notions Importantes
+- ...
 - ...
 
-## ToDo
+## Remarques
+- ...
+- ...
 
-- [ ] ...
-
-## Debreifing
+## Structure
 
 - ...
 - ...
