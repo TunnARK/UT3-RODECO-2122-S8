@@ -1,14 +1,14 @@
 ---
 id: L7RunlQnGDq6ThxJjCHvo
-title: '2022-01-18'
+title: RASNL CM Seance 1 du 2022/01/17
 desc: ''
-updated: 1643216701580
+updated: 1643217598163
 created: 1642941675941
 ---
 
 | UE | Ref. | Format | Seance | Date | Heure |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| EMEAT2D1 | RASNL | CM | 1 | 2022/01/18 | 13:30-15:30 |
+| EMEAT2D1 | RASNL | CM | 1 | 2022/01/17 | 13:30-15:30 |
 
 ## Vocabulaires
 - **Syst. stationnaire** : ne dépend pas de _t_
