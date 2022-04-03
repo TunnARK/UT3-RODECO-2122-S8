@@ -1,0 +1,218 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Bienvenue",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "tUyB7kyEnOEepXCSzCaO9",
+          "title": "COOSC",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "tbjohnil5cu83yla9g1psrk",
+              "title": "TD",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "bRnIRiRx8OpbnfF5IGofw",
+                  "title": "PompeEssence",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "56YGy0LLbvRLArlbCy9fv",
+          "title": "OCSP",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "cqyhd8hjzacb7g2xcr8n990",
+              "title": "CM",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "j18g1qpdh0tnysvtvcqj29a",
+                  "title": "Seance1",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "bSmhfcQvqUcOFh5JRiASI",
+                      "title": "2022-01-18",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "BEDDHPEpBwL0qUArn7Jis",
+              "title": "Syllabus",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "JhAwowEVJaRcHmLKKHaP1",
+          "title": "RASNL - Représentation et Analyse de Systèmes Non-Linéaires",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "kc6hcv0h8socmy21bqxsslf",
+              "title": "CM",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "oeinzac5l45vlh8nnxxx418",
+                  "title": "Seance1",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "L7RunlQnGDq6ThxJjCHvo",
+                      "title": "RASNL CM Seance 1 du 2022/01/17",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "5dN0I8eQgFICtvV9twCM4",
+              "title": "Syllabus",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "eDGRrQANIUN8yplzFctIk",
+          "title": "TMOSED",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "5h1422y21iy76t7pe9rvqdp",
+              "title": "CM",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "pkls1et00lyalueikb75sgl",
+                  "title": "Seance1",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": [
+                    {
+                      "key": "XM2Gh3jx0pW5r7tHuFAT2",
+                      "title": "TMOSED CM Seance 1 du 2022/01/17",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "vault",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "oK1I814vqwv3EKZqSpEtj",
+              "title": "Syllabus",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "Pp5xjZN2pG6aooTAPCOHM",
+          "title": "Templates",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "3kAsTClB5kRSd3MSl3aHU",
+              "title": "CM-V1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "g09e19kUDb5qgSsAEtncm",
+              "title": "Syllabus-V1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "Pp5xjZN2pG6aooTAPCOHM": "wn8PE1RhG0znK1alrGFYv",
+    "g09e19kUDb5qgSsAEtncm": "Pp5xjZN2pG6aooTAPCOHM",
+    "3kAsTClB5kRSd3MSl3aHU": "Pp5xjZN2pG6aooTAPCOHM",
+    "eDGRrQANIUN8yplzFctIk": "wn8PE1RhG0znK1alrGFYv",
+    "5h1422y21iy76t7pe9rvqdp": "eDGRrQANIUN8yplzFctIk",
+    "pkls1et00lyalueikb75sgl": "5h1422y21iy76t7pe9rvqdp",
+    "XM2Gh3jx0pW5r7tHuFAT2": "pkls1et00lyalueikb75sgl",
+    "oK1I814vqwv3EKZqSpEtj": "eDGRrQANIUN8yplzFctIk",
+    "JhAwowEVJaRcHmLKKHaP1": "wn8PE1RhG0znK1alrGFYv",
+    "kc6hcv0h8socmy21bqxsslf": "JhAwowEVJaRcHmLKKHaP1",
+    "oeinzac5l45vlh8nnxxx418": "kc6hcv0h8socmy21bqxsslf",
+    "L7RunlQnGDq6ThxJjCHvo": "oeinzac5l45vlh8nnxxx418",
+    "5dN0I8eQgFICtvV9twCM4": "JhAwowEVJaRcHmLKKHaP1",
+    "56YGy0LLbvRLArlbCy9fv": "wn8PE1RhG0znK1alrGFYv",
+    "cqyhd8hjzacb7g2xcr8n990": "56YGy0LLbvRLArlbCy9fv",
+    "j18g1qpdh0tnysvtvcqj29a": "cqyhd8hjzacb7g2xcr8n990",
+    "bSmhfcQvqUcOFh5JRiASI": "j18g1qpdh0tnysvtvcqj29a",
+    "BEDDHPEpBwL0qUArn7Jis": "56YGy0LLbvRLArlbCy9fv",
+    "tUyB7kyEnOEepXCSzCaO9": "wn8PE1RhG0znK1alrGFYv",
+    "tbjohnil5cu83yla9g1psrk": "tUyB7kyEnOEepXCSzCaO9",
+    "bRnIRiRx8OpbnfF5IGofw": "tbjohnil5cu83yla9g1psrk"
+  }
+}

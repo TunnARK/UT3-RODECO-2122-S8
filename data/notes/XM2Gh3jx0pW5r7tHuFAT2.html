@@ -1,0 +1,116 @@
+<h1 id="tmosed-cm-seance-1-du-20220117"><a aria-hidden="true" class="anchor-heading" href="#tmosed-cm-seance-1-du-20220117"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>TMOSED CM Seance 1 du 2022/01/17</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="center">UE</th><th align="center">Ref.</th><th align="center">Format</th><th align="center">Seance</th><th align="center">Date</th><th align="center">Heure</th></tr></thead><tbody><tr><td align="center">EMEAT2A1</td><td align="center">TMOSED</td><td align="center">CM</td><td align="center">1</td><td align="center">2022/01/17</td><td align="center">07:45-09:45</td></tr></tbody></table>
+<h2 id="vocabulaires"><a aria-hidden="true" class="anchor-heading" href="#vocabulaires"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Vocabulaires</h2>
+<ul>
+<li>
+<p><strong>Application</strong> : Technique de modélisation pour l'obtention d'un modèle définie par le cahier des charges (CdC)</p>
+</li>
+<li>
+<p><strong>Vérification</strong> : Conformité par rapport au CdC sans <strong>TRAHISION</strong></p>
+<ul>
+<li>Proverbe italien : traduction = trahision</li>
+</ul>
+</li>
+<li>
+<p><strong>Retour sur modèle</strong> : adjustement de la représentation pour respecter CdC</p>
+</li>
+<li>
+<p><strong>Mise en oeuvre</strong> : réalité pratique (ex. commande)</p>
+</li>
+</ul>
+<h2 id="notions-importantes"><a aria-hidden="true" class="anchor-heading" href="#notions-importantes"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Notions Importantes</h2>
+<ul>
+<li>
+<p><strong>Mise sous forme algébrique</strong> :</p>
+<ul>
+<li>"Décrire le modèle par un ensemble d'équation"</li>
+<li>Situations représentées par un codage binaire noté Ei</li>
+<li><strong>Modèle FMG</strong> :
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.ModeleFMG-1.png">
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.ModeleFNG-2.png"></li>
+</ul>
+</li>
+<li>
+<p><strong>Bascule synchrone</strong> :</p>
+<ul>
+<li>Table de vérité
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.BasculeSynchrone-TableVerite.png"></li>
+<li>Exemple
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.BasculeSynchrone-Exemple.png"></li>
+</ul>
+</li>
+<li>
+<p><strong>Bascule D</strong></p>
+<ul>
+<li>Table de vérité
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.BasculeD-TableVerite.png"></li>
+<li>Exemple
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.BasculeD-Exemple.png"></li>
+</ul>
+</li>
+<li>
+<p><strong>Sorties</strong>
+<img src="/UT3-RODECO-2122-S8/assets/images/TMOSED.CM.Seance1.Sorties.png"></p>
+</li>
+</ul>
+<h2 id="remarques"><a aria-hidden="true" class="anchor-heading" href="#remarques"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Remarques</h2>
+<ul>
+<li>
+<p>Modèle obtenu du SED est <strong>fini</strong> (malgré que toutes les situations possibles soient considéré) du coup sa mise en oeuvre est envisageable !</p>
+</li>
+<li>
+<p>Même les <strong>pannes rares</strong> doivent être considérées dans le modèle !</p>
+</li>
+<li>
+<p>Précautions</p>
+<ul>
+<li>Init: Ej tous à faux sauf l'<strong>état de départ</strong></li>
+<li>Sync: La transmission des résultats n'est faite qu'une fois les équations stabilisées et de façon <strong>simultanée</strong></li>
+<li>Conditions d'évolutions: constructeur est le seul garant de l'exclusion des conditions (<strong>indéterminisme interdit</strong>)</li>
+</ul>
+</li>
+</ul>
+<h2 id="structure"><a aria-hidden="true" class="anchor-heading" href="#structure"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Structure</h2>
+<ul>
+<li>Chap 0 - Intro</li>
+<li>Chap 1 - Mise sous forme algébrique d'un SED
+<ul>
+<li>1-1. Automate à états finis : <strong>codage 1 parmi N</strong>
+<ul>
+<li>1-1.a) Contexte</li>
+<li>1-1.b) Bascule synchrone</li>
+<li>1-1.c) Bascule D</li>
+<li>1-1.d) Les Sorties</li>
+<li>1-1.e) Precautions</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="bibliothèques"><a aria-hidden="true" class="anchor-heading" href="#bibliothèques"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Bibliothèques</h2>
+<ul>
+<li><a href="https://www.dropbox.com/s/b5u7uekl9kyv4du/TMOSED.Modalites.NotesRKA.2022.01.17.pdf?dl=0">TMOSED.Modalites.NotesRKA.2022.01.17.pdf</a></li>
+<li><a href="https://www.dropbox.com/preview/UT3.RODECO.2021.2022.S8.Shared/EMEAT2A1..TMOSED-TechniquesMiseOeuvreSystemesEvenementsDiscrets/TMOSED.CM/TMOSED.CM.Seance1.Chap0.Intro.NotesRKA.2022.01.17.pdf?context=browse&#x26;role=personal">TMOSED.CM.Seance1.Chap0.Intro.NotesRKA.2022.01.17.pdf</a></li>
+<li><a href="https://www.dropbox.com/preview/UT3.RODECO.2021.2022.S8.Shared/EMEAT2A1..TMOSED-TechniquesMiseOeuvreSystemesEvenementsDiscrets/TMOSED.CM/TMOSED.CM.Seance1.Chap1.MiseSousFormeAlg.NotesRKA.2022.01.17.pdf?context=browse&#x26;role=personal">TMOSED.CM.Seance1.Chap1.MiseSousFormeAlg.NotesRKA.2022.01.17.pdf</a></li>
+</ul>
